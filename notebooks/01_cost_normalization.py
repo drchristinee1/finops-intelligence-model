@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load data
-df = pd.read_csv('../data/sample/api_cost_to_value.csv')
+df = pd.read_csv('/data/sample/api_cost_to_value.csv')
 
 # Step 1: Convert units
 df['duration_seconds'] = df['avg_duration_ms'] / 1000
