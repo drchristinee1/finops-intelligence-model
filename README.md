@@ -123,6 +123,13 @@ Version 1 focuses on one story:
 - growth vs inefficiency interpretation
 - baseline demand estimate for commitment decisions
 
+  ## How to run
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+
 ## Repository structure
 
 ```text
