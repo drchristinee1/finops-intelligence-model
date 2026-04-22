@@ -1,1 +1,2 @@
-
+monthly_api_calls,avg_duration_ms,memory_mb,cost_per_million_requests,cost_per_gb_second,customers,transactions_per_customer,contribution_margin_per_transaction
+1000000,200,512,0.2,0.00001667,50000,2,10
